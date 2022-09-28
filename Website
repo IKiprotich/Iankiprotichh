@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en"
+<head>
+    <title>Ian Kiprotich</title>
+</head>
+<body>
+  <a href="home.html">home</a>
+  <a href="about.html">About Me</a>
+  <a href="more.html">more</a>
+  <h1>Home</h1>
+  <P> Welcome to my personal website I am still learning how to code so it makes sense for my website to be such crappy.</P>
+  <p> But do not worry once i learn how to make good websites i will update this</p>
+  <h2> My DP 2 E xpirirence</h2>
+  <p> As a DP2 student life is very hard. You have to find the perfect balance </p>
+    <footer> Follow me on Instagram, Facebook, Twitter and Gmail at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">Instagram</a></footer>
+
+</body>
+</html>
